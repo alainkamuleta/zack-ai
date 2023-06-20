@@ -1,5 +1,5 @@
 # nack-ai
-nack-ai is a bundle of advanced frameworks such as Rasa stack for AI assistants, VoIP, Video Conferencing, Groupware tools, OpenCV & Tensorflow, Flask and Flutter. Multiple tools are brought together to bulid up Secured, Smart, Scalable, Sovereign and affordable Information System.
+nack-ai is a bundle of advanced frameworks such as Rasa stack for AI assistants, VoIP, Video Conferencing, Groupware tools, OpenCV & Tensorflow, Flask and Flutter. Multiple tools are brought together to bulid a Secured, Smart, Scalable, Sovereign and affordable Information System.
 
 We're experimenting the power of cutting-edge technologies, cloud and nextgen firewalls to deliver virtual office fully fonctionnal to all on the Internet.
 
