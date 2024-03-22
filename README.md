@@ -5,4 +5,4 @@ zack is a bundle of advanced frameworks such as Rasa stack for AI assistants, ha
 We're experimenting the power of cutting-edge technologies, cloud and nextgen firewalls to deliver virtual office fully fonctionnal on the Internet with Zack in the background.
 Imagin having your own assistant while working from home, your own avatar taking care of all your virtual needs? That is what zack is built for :)
 
-nack-ai is now IISys (Integral Information Sys / Isys) maintained by he D3X Platform. Feel free to reach out with iisys@exactelis.net for more details and business opportunities now !
+zack runs under IISys (Integral Information System (say Isys)) maintained by he D3X Platform. Feel free to reach out with iisys@exactelis.net for more details and business opportunities now !
